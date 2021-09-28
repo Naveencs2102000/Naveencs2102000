@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @Naveencs2102000
+- 👀 I’m interested in learning new thing which is logical
+- 🌱 I’m currently learning python ,c ,arduino
+- 💞️ I’m looking to collaborate on atuomation field and also in IT field 
+- 📫 How to reach me ...csnaveen430@gmail.com
+
+<!---
+Naveencs2102000/Naveencs2102000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
